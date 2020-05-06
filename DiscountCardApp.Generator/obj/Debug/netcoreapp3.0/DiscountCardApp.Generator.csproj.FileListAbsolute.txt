@@ -1,5 +1,4 @@
 C:\Repo\DiscountCardApp\DiscountCardApp.Generator\bin\Debug\netcoreapp3.0\DiscountCardApp.Generator.exe
-C:\Repo\DiscountCardApp\DiscountCardApp.Generator\bin\Debug\netcoreapp3.0\Dapper.dll
 C:\Repo\DiscountCardApp\DiscountCardApp.Generator\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Repo\DiscountCardApp\DiscountCardApp.Generator\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
 C:\Repo\DiscountCardApp\DiscountCardApp.Generator\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
