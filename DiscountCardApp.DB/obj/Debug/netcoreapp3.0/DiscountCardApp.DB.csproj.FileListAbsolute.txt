@@ -1,0 +1,10 @@
+C:\Repo\DiscountCardApp\DiscountCardApp.DB\bin\Debug\netcoreapp3.0\DiscountCardApp.DB.deps.json
+C:\Repo\DiscountCardApp\DiscountCardApp.DB\bin\Debug\netcoreapp3.0\DiscountCardApp.DB.dll
+C:\Repo\DiscountCardApp\DiscountCardApp.DB\obj\Debug\netcoreapp3.0\DiscountCardApp.DB.AssemblyInfoInputs.cache
+C:\Repo\DiscountCardApp\DiscountCardApp.DB\obj\Debug\netcoreapp3.0\DiscountCardApp.DB.AssemblyInfo.cs
+C:\Repo\DiscountCardApp\DiscountCardApp.DB\bin\Debug\netcoreapp3.0\DiscountCardApp.DB.runtimeconfig.json
+C:\Repo\DiscountCardApp\DiscountCardApp.DB\bin\Debug\netcoreapp3.0\DiscountCardApp.DB.runtimeconfig.dev.json
+C:\Repo\DiscountCardApp\DiscountCardApp.DB\bin\Debug\netcoreapp3.0\DiscountCardApp.DB.pdb
+C:\Repo\DiscountCardApp\DiscountCardApp.DB\obj\Debug\netcoreapp3.0\DiscountCardApp.DB.dll
+C:\Repo\DiscountCardApp\DiscountCardApp.DB\obj\Debug\netcoreapp3.0\DiscountCardApp.DB.pdb
+C:\Repo\DiscountCardApp\DiscountCardApp.DB\obj\Debug\netcoreapp3.0\DiscountCardApp.DB.csprojAssemblyReference.cache
